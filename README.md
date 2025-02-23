@@ -1,6 +1,6 @@
 <h1>Vue Portfolio</h1>
 
-How to:
+How to use:
 1. Clone
 2. npm install
 3. composer install
